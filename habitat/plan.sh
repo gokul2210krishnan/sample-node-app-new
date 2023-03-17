@@ -6,6 +6,7 @@
 # and `pkg_version` to define the fully-qualified package name, which determines
 # where the package is installed to on disk, how it is referred to in package
 # metadata, and so on.
+#
 pkg_name=sample-node-app-new
 
 # Required unless overridden by the `HAB_ORIGIN` environment variable.
